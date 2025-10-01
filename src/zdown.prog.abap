@@ -341,7 +341,7 @@ SELECTION-SCREEN COMMENT 5(23) tauth.
 PARAMETERS: pauth LIKE usr02-bname MEMORY ID mauth.
 SELECTION-SCREEN END OF LINE.
 
-selection-screen skip.
+selection-screen skip 3.
 
 SELECTION-SCREEN BEGIN OF LINE.
 SELECTION-SCREEN COMMENT 5(36) tpmod.
