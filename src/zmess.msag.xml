@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMESS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>G</SPRSL>
+     <ARBGB>ZMESS</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>AMKA &amp; λανθασμένος (μήκος όχι 11)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>G</SPRSL>
+     <ARBGB>ZMESS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>AMKA &amp; λανθασμένος (δεν περιέχει αριθμούς)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>G</SPRSL>
+     <ARBGB>ZMESS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>AMKA &amp; λανθασμένος (λάθος ψηφίου ελέγχου)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>G</SPRSL>
+     <ARBGB>ZMESS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Κοστολογικό αντικείμενο &amp;1 στην εταιρεία &amp;2 δεν υπάρχει.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>G</SPRSL>
+     <ARBGB>ZMESS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Κοστολογικό αντικείμενο &amp;1 δεν υπάρχει.</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMESS</ARBGB>
+     <STEXT>Messages</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>SS Nr (AMKA) &amp; is wrong (length is not 11)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>SS Nr (AMKA) &amp; is wrong (contains not numeric characters)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>SS Nr (AMKA) &amp; is wrong (check digit error)</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Cost Object &amp;1 in Company &amp;2 does not exist</TEXT>
+    </item>
+    <item>
+     <SPRSL>E</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>Cost Object &amp;1 does not exist</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

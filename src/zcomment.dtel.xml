@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZCOMMENT</ROLLNAME>
+    <DDLANGUAGE>G</DDLANGUAGE>
+    <DOMNAME>ZCOMMENT</DOMNAME>
+    <HEADLEN>07</HEADLEN>
+    <SCRLEN1>07</SCRLEN1>
+    <SCRLEN2>07</SCRLEN2>
+    <SCRLEN3>07</SCRLEN3>
+    <DDTEXT>Σχόλιο</DDTEXT>
+    <REPTEXT>Σχόλιο</REPTEXT>
+    <SCRTEXT_S>Σχόλιο</SCRTEXT_S>
+    <SCRTEXT_M>Σχόλιο</SCRTEXT_M>
+    <SCRTEXT_L>Σχόλιο</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Comment</DDTEXT>
+     <REPTEXT>Comment</REPTEXT>
+     <SCRTEXT_S>Comment</SCRTEXT_S>
+     <SCRTEXT_M>Comment</SCRTEXT_M>
+     <SCRTEXT_L>Comment</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
